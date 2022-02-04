@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: #81d4fa;
+}
+a {
+    text-decoration: none;
+}
+.site {
+    text-align: center;
+}
+.info {
+    padding: 30px;
+    border: burlywood solid 10px;
+    border-radius: 20px;
+}
+.link-nav {
+    text-decoration: none;
+    font-size: 30px;
+   padding: 30px;
+}
+header {
+    text-decoration: none;
+    font-size: 30px;
+   padding: 30px;
+   background-color: mediumspringgreen;
+   border-radius: 20px;
+}
+main {
+     background-color: #81d4fa;
+}
+footer {
+ background-color: #81d4fa;
+}
+.link-header:hover {
+    color: mediumturquoise;
+    transition: 3s linear;
+}
+.link-header {
+    width: 30px;
+    height: 20px;
+    padidng: 10px;
+}
+
